@@ -1,12 +1,25 @@
-# 💫 About Me:
-👨‍💻 About Me<br><br>🧠 CS student exploring Machine Learning & AI<br>🔭 Currently working on improving my coding and ML skills<br>🌱 Learning Python, data science & model building<br>🤝 Open to collaborating on beginner-friendly projects<br>💬 Ask me about Python, ML basics & problem-solving<br>⚡ Fun fact: runs on discipline and caffeine
+# 💫 About Me
+👨‍💻 CS student exploring Machine Learning & AI  
+🔭 Currently working on improving my coding and ML skills  
+🌱 Learning Python, Java, data science & model building  
+🤝 Open to collaborating on beginner-friendly projects  
+💬 Ask me about Python, ML basics & problem-solving  
+⚡ Fun fact: runs on discipline and caffeine
 
+---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/HaseebJutt.26) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haseebjutt_26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haseeb-jahangir) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/haseebjutt_26) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haseebpakistan9@gmail.com) 
+## 🌐 Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/HaseebJutt.26) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haseebjutt_26) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haseeb-jahangir) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/haseebjutt_26) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haseebpakistan9@gmail.com)
+
+---
 
 # 💻 Core Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) 
@@ -22,9 +35,9 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Haseebjahangir26&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Haseebjahangir26&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Haseebjahangir26&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ---
+
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Haseebjahangir26&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=Haseebjahangir26&theme=shadow_red&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Haseebjahangir26&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
